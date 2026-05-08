@@ -3,25 +3,25 @@ import { Stethoscope, Heart, Shield, Users, Globe, Award, ArrowRight } from 'luc
 
 const TEAM = [
   {
-    name: 'Abdullah Al-Mansoori',
+    name: 'Saeed Al Mohannadi',
     title: 'CEO & Co-Founder',
     initials: 'AM',
     bg: 'bg-teal-100 text-teal-800',
-    bio: 'Former healthcare technology executive with 15 years experience scaling digital health platforms across the GCC.',
+    bio: 'Long term healthcare technology investor with 15 years experience scaling digital health platforms across the GCC.',
   },
   {
-    name: 'Dr. Sara Al-Thani',
-    title: 'Chief Medical Officer',
-    initials: 'ST',
-    bg: 'bg-blue-100 text-blue-800',
-    bio: 'Board-certified physician and health systems innovator who has treated thousands of patients at Hamad Medical Corporation.',
-  },
-  {
-    name: 'Khalid Hassan',
+    name: 'Jamal Adan',
     title: 'CTO & Co-Founder',
-    initials: 'KH',
+    initials: 'JA',
     bg: 'bg-violet-100 text-violet-800',
     bio: 'Software engineer and systems architect who previously built infrastructure at regional fintech and healthtech startups.',
+  },
+  {
+    name: 'Dr. Khalid Hassan',
+    title: 'Chief Medical Officer',
+    initials: 'KH',
+    bg: 'bg-blue-100 text-blue-800',
+    bio: 'Board-certified physician and health systems innovator who has treated thousands of patients at Hamad Medical Corporation.',
   },
   {
     name: 'Nour Al-Kuwari',
