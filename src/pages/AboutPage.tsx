@@ -14,7 +14,7 @@ const TEAM = [
     title: 'CTO & Co-Founder',
     initials: 'JA',
     bg: 'bg-violet-100 text-violet-800',
-    bio: 'Software engineer and systems architect who previously built infrastructure at regional fintech and healthtech startups.',
+    bio: 'Technology systems and data architect who previously built infrastructure at a Food tech startup. Leading our architecture and data strategy, investor relations, and market development.',
   },
   {
     name: 'Dr. Khalid Hassan',
